@@ -1,6 +1,4 @@
-   In love
-            with
-Data Structures and Algorithms
+DSA
 
 <!---
 labidz/labidz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
